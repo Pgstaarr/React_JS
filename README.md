@@ -1,5 +1,5 @@
 # React_JS
 
-Code along with projects.
+Projects along with code
 <br>
 Author - Paras Gupta (Aspiring Developer)
